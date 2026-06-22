@@ -28,7 +28,7 @@
 const CONFIG = {
   // ── Recipient Info ────────────────────────────────────────────
   name: "Baby",
-  photo: "./img/https://github.com/kaungmyat636/happybirthdayBbe/blob/main/img/ChatGPT_Image_Jun_21%2C_2026%2C_02_41_15_PM%5B1%5D.png.jpg",       // Place your photo in the img/ folder
+  photo: "./img/jj.jpg.png.jpg",       // Place your photo in the img/ folder
   music: "./music/hbd.mpeg",      // Place your music in the music/ folder
 
   // ── Theme Colors ──────────────────────────────────────────────
